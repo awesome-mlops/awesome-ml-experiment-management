@@ -3,6 +3,7 @@
 A curated list of awesome open source tools and commercial products for ML Experiment Tracking and Management 🚀
 
  * [Aim](https://github.com/aimhubio/aim): An easy-to-use and performant open-source experiment tracker.
+ * [Cascade](https://github.com/oxid15/cascade): Lightweight and modular MLOps library targeted at small teams and individuals.
  * [ClearML](https://github.com/allegroai/clearml): Automagical experiment tracking, environments and results
  * [Comet](https://www.comet.ml/): Manage and optimize the entire ML lifecycle, from experiment tracking to model production monitoring.
  * [DVC Studio](https://studio.iterative.ai/): A web application that works with the data, metrics and hyperparameters that you add to your ML project repositories.
