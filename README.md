@@ -2,6 +2,7 @@
 
 A curated list of awesome open source tools and commercial products for ML Experiment Tracking and Management 🚀
 
+ * [Aeromancy](https://quant-aq.github.io/aeromancy/): Aims to maximize reproducibility while minimizing friction (built on top of [Weights and Biases](https://github.com/wandb/client)).
  * [Aim](https://github.com/aimhubio/aim): An easy-to-use and performant open-source experiment tracker.
  * [ClearML](https://github.com/allegroai/clearml): Automagical experiment tracking, environments and results
  * [Comet](https://www.comet.ml/): Manage and optimize the entire ML lifecycle, from experiment tracking to model production monitoring.
