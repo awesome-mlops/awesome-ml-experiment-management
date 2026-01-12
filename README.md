@@ -14,4 +14,5 @@ A curated list of awesome open source tools and commercial products for ML Exper
  * [Sacred](https://github.com/IDSIA/sacred/): A tool to configure, organize, log and reproduce computational experiments.
  * [Tensorboard](https://www.tensorflow.org/tensorboard/):  Provides the visualization and tooling needed for machine learning experimentation.
  * [TraceML](https://github.com/polyaxon/traceml): Engine for ML/Data tracking, visualization, dashboards, and model UI.
+ * [Valohai](httos://valohai.com/): Reproducibility-first MLOps platform for versioned runs, lineage and audit-ready metadata, moving ML and LLM workflows from notebooks to production across cloud, on-prem and HPC.
  * [Weights and Biases](https://github.com/wandb/client): A tool for visualizing and tracking your machine learning experiments.
